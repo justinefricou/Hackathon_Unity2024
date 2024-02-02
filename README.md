@@ -1,5 +1,8 @@
 # Hackathon Unity réseau
 
+### MEMBRES ###
+Ce travail a été réalisé en groupe par Justine Fricou et William Rech
+
 ### PRÉSENTATION
 
 Durant cet hackathon l’objectif sera de créer un début de jeu multijoueur en utilisant la librairie mirror. Vous êtes libre de choisir quel type de jeu vous voulez faire. 
@@ -21,7 +24,6 @@ A la fin de la journée le but serait de pouvoir se connecter et qu’il y ait u
 N’oubliez pas de pousser votre travail sur GitHub à la fin du hackathon !
 
 ### LIENS UTILE
-
 
 <a href="https://mirror-networking.gitbook.io/docs/manual/general" target="_blank">Mirror documentation</a>
 
